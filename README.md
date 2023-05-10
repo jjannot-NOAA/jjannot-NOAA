@@ -6,11 +6,11 @@
 
 ### Fisheries Monitoring and Analysis Analytical Services Group
 
-<!--# Learn more about me! [Find my website here.](add website here) -->
+#### Learn more about me! [Find my website here.](https://jjannot.github.io) -->
 <!--More notes on how to do this, here: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
 -->
 
-#### All work posted on this GitHub is subject to NOAA Fisheries' Standards and by the AFSC Code of Conduct.
+All work posted on this GitHub is subject to NOAA Fisheries' Standards and by the AFSC Code of Conduct.
 
 
 ## Disclaimer
