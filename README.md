@@ -1,6 +1,6 @@
 # Jason E. Jannot
 
-### Research Fisheries Biologist 
+### Supervisory Research Fish Biologist 
 
 ### Alaska Fisheries Science Center
 
