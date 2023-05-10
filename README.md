@@ -1,10 +1,10 @@
 # Jason E. Jannot
 
-### Supervisory Research Fish Biologist 
-
+### Supervisory Research Fish Biologist
+### Analytical Services Program Manager
+### Fisheries Monitoring and Analysis
 ### Alaska Fisheries Science Center
-
-### Fisheries Monitoring and Analysis Analytical Services Group
+### NOAA Fisheries
 
 #### Learn more about me! [Find my website here.](https://jjannot.github.io)
 <!--More notes on how to do this, here: https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
